@@ -38,7 +38,7 @@ public class UsingDirectBuffering {
         
         inputStream2.close();
 
-        /*
+       /* 
         //-------------- Test reading 100 MB file. --------------------
 
         StopWatch.start();
